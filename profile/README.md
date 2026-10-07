@@ -9,11 +9,11 @@
   &nbsp;
   <a href="https://github.com/CreatorBeastGD"><img src="https://avatars.githubusercontent.com/u/124881215" width="150" alt="CreatorBeastGD" title="CreatorBeastGD"></a>
   &nbsp;
-  <a href="https://github.com/waybail-m"><img src="https://avatars.githubusercontent.com/u/232637678" width="150" alt="SimulationOfMario" title="waybail-m"></a>
+  <a href="https://github.com/waybail-m"><img src="https://avatars.githubusercontent.com/u/232637678" width="150" alt="Waybail" title="waybail-m"></a>
   &nbsp;
-  <a href="https://github.com/car0lina-afk"><img src="https://avatars.githubusercontent.com/u/258210504" width="150" alt="CreatorBeastGD" title="car0lina-afk"></a>
+  <a href="https://github.com/car0lina-afk"><img src="https://avatars.githubusercontent.com/u/258210504" width="150" alt="car0lina-afk" title="car0lina-afk"></a>
   &nbsp;
-  <a href="https://github.com/JuJoJiDev"><img src="https://avatars.githubusercontent.com/u/130092630" width="150" alt="CreatorBeastGD" title="JuJoJiDev"></a>
+  <a href="https://github.com/JuJoJiDev"><img src="https://avatars.githubusercontent.com/u/130092630" width="150" alt="JuJoJiDev" title="JuJoJiDev"></a>
 </div>
 
 <br/>
